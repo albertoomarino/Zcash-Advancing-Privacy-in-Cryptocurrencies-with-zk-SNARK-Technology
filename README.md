@@ -1,1 +1,1 @@
-# Zcash-Advancing-Privacy-in-Cryptocurrencies-with-zk-SNARK-Technology
+# Zcash: Advancing Privacy in Cryptocurrencies with zk-SNARK Technology
