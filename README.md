@@ -7,5 +7,3 @@ The paper examines the Zcash cryptocurrency, which prioritizes user privacy thro
 - Emanuel Fabrizio (Master’s degree student in Cybersecurity, Politecnico di Torino, Italy)
 - Merico Michele (Master’s degree student in Cybersecurity, Politecnico di Torino, Italy)
 - Seira Michele (Master’s degree student in Cybersecurity, Politecnico di Torino, Italy)
-
-- @emfourem
